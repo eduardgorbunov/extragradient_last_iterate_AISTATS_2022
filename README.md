@@ -1,5 +1,5 @@
-# Extragradient Method: $O(1/K)$ Last-Iterate Convergence for Monotone Variational Inequalities and Connections With Cocoercivity
-Code for the paper "Extragradient Method: $O(1/K)$ Last-Iterate Convergence for Monotone Variational Inequalities and Connections With Cocoercivity" by Eduard Gorbunov, Nicolas Loizou, Gauthier Gidel. The paper is accepted to AISTATS 2022. The code comes jointly with the paper.
+# Extragradient Method: O(1/K) Last-Iterate Convergence for Monotone Variational Inequalities and Connections With Cocoercivity
+Code for the paper "Extragradient Method: O(1/K) Last-Iterate Convergence for Monotone Variational Inequalities and Connections With Cocoercivity" by Eduard Gorbunov, Nicolas Loizou, Gauthier Gidel. The paper is accepted to AISTATS 2022. The code comes jointly with the paper.
 
 ArXiv: https://arxiv.org/abs/2110.04261
 
